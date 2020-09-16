@@ -32,9 +32,9 @@ public class Controller : MonoBehaviour
             if (path != null)
             {
                 // Play the recorded video
-                Handheld.PlayFullScreenMovie("file://" + path);
+                //Handheld.PlayFullScreenMovie("file://" + path);
             }
-        }, NativeCamera.Quality.Medium, 100, 100L, NativeCamera.PreferredCamera.Front);
+        });//, NativeCamera.Quality.Medium, 100, 100L, NativeCamera.PreferredCamera.Front);
 
         UnityEngine.Debug.Log("Permission result: " + permission);
     }

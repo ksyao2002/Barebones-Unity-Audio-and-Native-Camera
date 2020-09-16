@@ -41,21 +41,21 @@ ScriptsOnlyBuild:
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 11156}
+      Script: {instanceID: 11186}
     - Class: 114
-      Script: {instanceID: 11312}
+      Script: {instanceID: 11342}
     - Class: 114
-      Script: {instanceID: 11352}
+      Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11734}
+      Script: {instanceID: 11768}
     - Class: 114
-      Script: {instanceID: 12114}
+      Script: {instanceID: 12154}
     - Class: 114
-      Script: {instanceID: 12590}
+      Script: {instanceID: 12314}
     - Class: 114
-      Script: {instanceID: 12938}
+      Script: {instanceID: 12634}
     - Class: 114
-      Script: {instanceID: 15834}
+      Script: {instanceID: 12982}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -315,6 +315,12 @@ ScriptsOnlyBuild:
     className: VerticalLayoutGroup
   - hash:
       serializedVersion: 2
+      Hash: d3a6033ed2b323b9d17dd066efad041c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Controller
+  - hash:
+      serializedVersion: 2
       Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
     assemblyName: UnityEngine.UI.dll
     namespaceName: UnityEngine.UI
@@ -493,13 +499,7 @@ ScriptsOnlyBuild:
     assemblyName: Unity.Timeline.dll
     namespaceName: UnityEngine.Timeline
     className: PlayableTrack
-  - hash:
-      serializedVersion: 2
-      Hash: d3a6033ed2b323b9d17dd066efad041c
-    assemblyName: Assembly-CSharp.dll
-    namespaceName: 
-    className: Controller
   platform: 9
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Unity/StrippedAppToTestAudioAndRecording/iosbuild
+  playerPath: D:/Unity/GitStrippedApp/iosbuild

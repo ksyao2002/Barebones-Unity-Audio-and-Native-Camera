@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{1E7F1E98-3021-99DE-5391-FC4A0F9FF882}</ProjectGuid>
+    <ProjectGuid>{6A09107F-C1DD-F70F-7097-AB26E7883998}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -593,41 +593,41 @@
       <HintPath>D:/Unity/2019.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Unity/StrippedAppToTestAudioAndRecording/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NativeCamera.Editor.csproj">
-      <Project>{F8C1EA94-A7A1-A902-EC6F-E755786D859D}</Project>
+      <Project>{0175BF8F-99E8-C0DB-B9A2-023C320A07B2}</Project>
       <Name>NativeCamera.Editor</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
     <ProjectReference Include="NativeCamera.Runtime.csproj">
-      <Project>{84D15BFE-C77B-25B0-334A-0CEF67DD23E4}</Project>
+      <Project>{DEAFF544-1714-7D76-76B3-FABC82C83D20}</Project>
       <Name>NativeCamera.Runtime</Name>
       <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
     </ProjectReference>
