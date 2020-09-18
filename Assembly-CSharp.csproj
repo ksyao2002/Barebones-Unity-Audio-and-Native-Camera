@@ -593,31 +593,31 @@
       <HintPath>D:/Unity/2019.3.12f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-      <HintPath>D:/Unity/GitStrippedApp/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+      <HintPath>D:/Unity/GitStrippedApp/reverted/Barebones-Unity-Audio-and-Native-Camera/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>

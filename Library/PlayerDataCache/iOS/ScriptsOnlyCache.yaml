@@ -47,15 +47,15 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11382}
     - Class: 114
-      Script: {instanceID: 11768}
+      Script: {instanceID: 11770}
     - Class: 114
-      Script: {instanceID: 12154}
+      Script: {instanceID: 12156}
     - Class: 114
-      Script: {instanceID: 12314}
+      Script: {instanceID: 12316}
     - Class: 114
-      Script: {instanceID: 12634}
+      Script: {instanceID: 12636}
     - Class: 114
-      Script: {instanceID: 12982}
+      Script: {instanceID: 12984}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -502,4 +502,4 @@ ScriptsOnlyBuild:
   platform: 9
   scenePathNames:
   - Assets/Scenes/SampleScene.unity
-  playerPath: D:/Unity/GitStrippedApp/iosbuild
+  playerPath: D:/Unity/GitStrippedApp/barebones iosbuild

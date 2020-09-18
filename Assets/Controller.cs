@@ -13,10 +13,8 @@ public class Controller : MonoBehaviour
 
     public void playAudio()
     {
-        if (!explain1.isPlaying)
-        {
-            explain1.Play();
-        }
+        print("playing audio");
+        explain1.PlayOneShot(explain1.clip);
     }
 
     public void record()
